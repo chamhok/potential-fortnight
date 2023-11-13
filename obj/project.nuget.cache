@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+j/XI4wN7uTWuhCGePcpE4htWyLcJ6X0XNaFakzHJWKXRUwI3X23F3h9qYfTpaCJLSyQkjTDMd3tCR8/VAmqZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kgwis\\source\\repos\\TextGame\\TextGame\\TextGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kgwis\\.nuget\\packages\\consolegui\\1.4.2\\consolegui.1.4.2.nupkg.sha512"
+  ],
+  "logs": []
+}
